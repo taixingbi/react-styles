@@ -1,0 +1,15 @@
+.cssdiv {
+    margin: 40px;
+    border: 5px dotted pink;
+  }
+
+
+
+:local(.container) {
+  margin: 40px;
+  border: 5px dashed pink;
+}
+
+
+
+  
